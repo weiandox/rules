@@ -9,7 +9,7 @@ DOMAIN,av.happyav.eu.org
 DOMAIN,cf.poloemby.xyz
 DOMAIN,cf.mjjemby.org
 DOMAIN,cfca.emby.ml
-IP-CIDR,188.172.228.49/24
+IP-CIDR,188.172.228.49/32
 
 #Music
 DOMAIN-SUFFIX,blueseamusics.com
