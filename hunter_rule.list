@@ -10,6 +10,8 @@ DOMAIN,cfs.poloemby.xyz
 DOMAIN,cf.mjjemby.org
 DOMAIN,cfca.emby.ml
 DOMAIN,23.emby77.cf
+DOMAIN,emby.shuipo.lol
+DOMAIN,nl.774.gs
 IP-CIDR,188.172.228.49/32
 
 #Music
@@ -17,3 +19,6 @@ DOMAIN-SUFFIX,blueseamusics.com
 
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
+
+#chatgpt
+DOMAIN-SUFFIX,openai.com
