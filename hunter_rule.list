@@ -14,7 +14,7 @@ DOMAIN,emby.shuipo.lol
 DOMAIN,nl.774.gs
 DOMAIN,play.charontv.com
 DOMAIN,temby.285286.xyz
-IP-CIDR,188.172.228.49/32
+DOMAIN,cf.zi0.icu
 
 #Music
 DOMAIN-SUFFIX,blueseamusics.com
