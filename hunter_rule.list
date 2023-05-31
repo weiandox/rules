@@ -24,3 +24,9 @@ DOMAIN,c.emby.pro
 
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
+
+#gpt
+DOMAIN-SUFFIX,openai.com
+
+#other
+DOMAIN,ednovas.us
