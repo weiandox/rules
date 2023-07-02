@@ -5,22 +5,19 @@ DOMAIN-SUFFIX,ednovas.org
 DOMAIN-SUFFIX,deja-vu.beauty
 DOMAIN-SUFFIX,misty.ltd
 DOMAIN-SUFFIX,scf.poloemby.xyz
-DOMAIN,cf.mjjemby.org
-DOMAIN,cfca.emby.ml
-DOMAIN,23.emby77.cf
+DOMAIN-SUFFIX,mjjemby.org
+DOMAIN,cfde.xmsl.org
 DOMAIN,emby.shuipo.lol
 DOMAIN,play.charontv.com
 DOMAIN,temby.285286.xyz
-# 123
-DOMAIN,nl.774.gs
 # 10086
 DOMAIN,cf.zi0.icu
 # tree
 DOMAIN,789.123456.al
-# Orange
-DOMAIN,cf.embytv.cf
 # bgk
 DOMAIN,c.emby.pro
+DOMAIN,emby.lucasmedia.top
+DOMAIN,flare.starcat.eu.org
 
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
