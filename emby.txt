@@ -18,12 +18,4 @@ DOMAIN,789.123456.al
 DOMAIN,c.emby.pro
 DOMAIN,emby.lucasmedia.top
 DOMAIN,flare.starcat.eu.org
-
-#pikpak
-DOMAIN-SUFFIX,mypikpak.com
-
-#gpt
-DOMAIN-SUFFIX,openai.com
-
-#other
-DOMAIN,ednovas.us
+DOMAIN-SUFFIX,ju.dog
