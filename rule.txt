@@ -1,0 +1,17 @@
+#pikpak
+DOMAIN-SUFFIX,mypikpak.com
+
+#gpt
+DOMAIN-SUFFIX,openai.com
+
+#nsfw
+DOMAIN-SUFFIX,missav.com
+
+#email
+DOMAIN,mail.yuxiaoc.com
+
+#other
+DOMAIN,ednovas.us
+DOMAIN-SUFFIX,mesl.cloud
+DOMAIN-SUFFIX,tnetvpn.com
+DOMAIN-SUFFIX,vercel.app
