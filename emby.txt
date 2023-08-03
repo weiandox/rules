@@ -1,21 +1,18 @@
 # Emby
-DOMAIN-SUFFIX,jp.embymv.tk
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,ednovas.org
 DOMAIN-SUFFIX,deja-vu.beauty
 DOMAIN-SUFFIX,misty.ltd
+DOMAIN-SUFFIX,shuipo.lol
 DOMAIN-SUFFIX,scf.poloemby.xyz
 DOMAIN-SUFFIX,mjjemby.org
 DOMAIN,cfde.xmsl.org
-DOMAIN,emby.shuipo.lol
 DOMAIN,play.charontv.com
 DOMAIN,temby.285286.xyz
 # 10086
 DOMAIN,cf.zi0.icu
 # tree
 DOMAIN,789.123456.al
-# bgk
-DOMAIN,c.emby.pro
 DOMAIN,emby.lucasmedia.top
 DOMAIN,flare.starcat.eu.org
 DOMAIN-SUFFIX,ju.dog
