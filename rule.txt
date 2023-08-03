@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,openai.com
 
 #nsfw
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,91porn.com
 
 #email
 DOMAIN,mail.yuxiaoc.com
@@ -15,3 +16,4 @@ DOMAIN,ednovas.us
 DOMAIN-SUFFIX,mesl.cloud
 DOMAIN-SUFFIX,tnetvpn.com
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,speedcat.ws
