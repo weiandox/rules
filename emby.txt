@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,mjjemby.org
 DOMAIN,cfde.xmsl.org
 DOMAIN,play.charontv.com
 DOMAIN,temby.285286.xyz
+DOMAIN,usa.bili.rip
 # 10086
 DOMAIN,cf.zi0.icu
 # tree
