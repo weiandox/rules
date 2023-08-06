@@ -19,4 +19,3 @@ DOMAIN,flare.starcat.eu.org
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,magpie.cyou
 DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,emby.carlos.trade
