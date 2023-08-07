@@ -15,7 +15,6 @@ DOMAIN,cf.zi0.icu
 # tree
 DOMAIN,789.123456.al
 DOMAIN,emby.lucasmedia.top
-DOMAIN,flare.starcat.eu.org
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,magpie.cyou
 DOMAIN-SUFFIX,cf.jmsooo.com
