@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,91porn.com
 #email
 DOMAIN,mail.yuxiaoc.com
 
+#星视界
+DOMAIN-SUFFIX,ulivetv.net
+DOMAIN-SUFFIX,histar.tv
+DOMAIN-SUFFIX,cloudfront.net
+
 #other
 DOMAIN,ednovas.us
 DOMAIN-SUFFIX,mesl.cloud
