@@ -16,12 +16,22 @@ DOMAIN-SUFFIX,ulivetv.net
 DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,cloudfront.net
 
-#other
+#机场
 DOMAIN,ednovas.us
-DOMAIN-SUFFIX,mesl.cloud
-DOMAIN-SUFFIX,tnetvpn.com
-DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,speedcat.ws
+DOMAIN-SUFFIX,mesl.cloud
+DOMAIN-SUFFIX,morefast.link
+DOMAIN-SUFFIX,ctc.run
+DOMAIN-SUFFIX,91unicorn.cloud
+DOMAIN-SUFFIX,zimoceng.xyz
+DOMAIN-SUFFIX,jinglongyu.com
+
+
+#other
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,bt4g
 
 HOST-SUFFIX, tktn.be
 IP-CIDR, 50.117.27.0/24
