@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,madou.club
 
 #email
 DOMAIN,mail.yuxiaoc.com
