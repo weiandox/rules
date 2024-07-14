@@ -1,18 +1,5 @@
 # Emby
 DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,deja-vu.beauty
-DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,shuipo.lol
-DOMAIN-SUFFIX,scf.poloemby.xyz
-DOMAIN-SUFFIX,mjjemby.org
-DOMAIN,play.charontv.com
-DOMAIN,temby.285286.xyz
-DOMAIN,usa.bili.rip
-# tree
-DOMAIN,789.123456.al
-DOMAIN,emby.lucasmedia.top
-DOMAIN,emby.carlos.trade
-DOMAIN-SUFFIX,ju.dog
-DOMAIN-SUFFIX,magpie.cyou
+DOMAIN-KEYWORD,magpie
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,cn2gias.uk
