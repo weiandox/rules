@@ -4,3 +4,4 @@ DOMAIN-KEYWORD,magpie
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-KEYWORD,pilipiliultra
+DOMAIN-SUFFIX,misakaf.org
