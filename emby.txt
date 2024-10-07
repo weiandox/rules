@@ -1,4 +1,5 @@
 # Emby
 DOMAIN-KEYWORD,magpie
 DOMAIN-KEYWORD,jmsuper
+DOMAIN-SUFFIX,emby.pro
 
