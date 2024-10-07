@@ -1,4 +1,4 @@
 # Emby
 DOMAIN-KEYWORD,magpie
-DOMAIN-KEYWORD,jmsuper.com
+DOMAIN-KEYWORD,jmsuper
 
