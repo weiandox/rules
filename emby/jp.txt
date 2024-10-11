@@ -1,2 +1,2 @@
 #cc
-DOMAIN-SUFFIX,carryz.net
+DOMAIN-SUFFIX,nanflix.net
