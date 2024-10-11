@@ -4,5 +4,4 @@ DOMAIN-SUFFIX,jmsuper.com
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,carlos.trade
-DOMAIN-SUFFIX,carryz.net
 
