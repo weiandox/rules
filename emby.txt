@@ -1,5 +1,7 @@
 # Emby
 DOMAIN-KEYWORD,magpie
-DOMAIN-KEYWORD,jmsuper
+DOMAIN-SUFFIX,jmsuper.com
 DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,carlos.trade
 
