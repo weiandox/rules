@@ -11,4 +11,4 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,free.xmsl.org
 DOMAIN-SUFFIX,ushd.xmsl.org
-
+DOMAIN-SUFFIX,emby.as174.com
