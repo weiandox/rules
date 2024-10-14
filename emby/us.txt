@@ -8,4 +8,5 @@ DOMAIN-SUFFIX,19991998.xyz
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,ushd.xmsl.org
