@@ -1,2 +1,2 @@
 #tulu
-DOMAIN-SUFFIX,tulu.fan
+DOMAIN-SUFFIX,023168.xyz
