@@ -1,25 +1,25 @@
-#pikpak
+# pikpak
 DOMAIN-SUFFIX,mypikpak.com
 
-#gpt
+# gpt
 DOMAIN-SUFFIX,openai.com
 
-#nsfw
+# nsfw
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,madou.club
 
-#email
+# email
 DOMAIN,mail.yuxiaoc.com
 
-#星视界
+# 星视界
 DOMAIN-SUFFIX,ulivetv.net
 DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,cloudfront.net
 
-#机场
+# 机场
 DOMAIN,ednovas.us
 DOMAIN-SUFFIX,speedcat.ws
 DOMAIN-SUFFIX,mesl.cloud
@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,zimoceng.xyz
 DOMAIN-SUFFIX,jinglongyu.com
 
 
-#other
+# other
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,discord
@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,nnr.moe
 DOMAIN-SUFFIX,kejilion.pro
 DOMAIN-SUFFIX,racknerd.com
 
+# 卷毛鼠
+DOMAIN-SUFFIX,jmsuper.com
+
+# talktone
 HOST-SUFFIX, tktn.be
 IP-CIDR, 50.117.27.0/24
 IP-CIDR, 69.46.75.0/24
