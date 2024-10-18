@@ -2,9 +2,6 @@
 DOMAIN-KEYWORD,magpie
 DOMAIN-SUFFIX,023168.xyz
 
-#卷毛鼠
-DOMAIN-SUFFIX,jmsuper.com
-
 # 不给看
 DOMAIN-SUFFIX,emby.pro
 
