@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,misakaf.org
 
 # 天南
 DOMAIN-SUFFIX,nanflix.net
+
+# 叔服
+DOMAIN-SUFFIX,mcjoker.xyz
