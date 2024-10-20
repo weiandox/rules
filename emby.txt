@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,guguemby.site
 # 不给看
 DOMAIN-SUFFIX,emby.pro
 
+# 卷毛鼠
+DOMAIN-SUFFIX,jmsuper.com
+
 # hxd
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,emby.as174.com
