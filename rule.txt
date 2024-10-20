@@ -42,9 +42,6 @@ DOMAIN-SUFFIX,nnr.moe
 DOMAIN-SUFFIX,kejilion.pro
 DOMAIN-SUFFIX,racknerd.com
 
-# 卷毛鼠
-DOMAIN-SUFFIX,jmsuper.com
-
 # talktone
 HOST-SUFFIX, tktn.be
 IP-CIDR, 50.117.27.0/24
