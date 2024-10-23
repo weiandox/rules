@@ -36,3 +36,6 @@ DOMAIN-SUFFIX,nanflix.net
 
 # 叔服
 DOMAIN-SUFFIX,mcjoker.xyz
+
+# 探花TV
+DOMAIN-SUFFIX,tanhuatv.site
