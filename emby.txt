@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,mcjoker.xyz
 
 # 探花TV
 DOMAIN-SUFFIX,tanhuatv.site
+IP-CIDR,94.16.119.117/32
