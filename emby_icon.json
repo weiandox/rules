@@ -1,0 +1,23 @@
+{
+"name":"Emby Icon", 
+"description":"图标按照服名或群名命名，按照A-Z排列，方便查找。", 
+"icons":
+    [
+		{"name":"Zhongchou", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Zhongchou.png"},
+		{"name":"1111", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/1111.png"},
+		{"name":"Hxd", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Hxd.png"},
+	    {"name":"Hxd1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Hxd1.png"},
+	    {"name":"Hxd2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Hxd2.png"},
+	    {"name":"Gugu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Gugu.png"},
+		{"name":"BuGeiKan", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BuGeiKan.png"},
+		{"name":"BuGeiKan1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BuGeiKan1.png"},
+		{"name":"CurlyMouse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CurlyMouse.png"},
+	    {"name":"CurlyMouse1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CurlyMouse1.png"},
+		{"name":"Teka", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Teka.png"},
+		{"name":"Teka1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Teka1.png"},
+		{"name":"PiliPili", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PiliPili.png"},
+		{"name":"ZhiPianRen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen.png"},
+		{"name":"ZhiPianRen1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen1.png"},
+		{"name":"ZhiPianRen2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen2.png"}
+    ]
+}
