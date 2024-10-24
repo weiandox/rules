@@ -1,6 +1,3 @@
-# Magpie
-DOMAIN-KEYWORD,magpie
-DOMAIN-SUFFIX,023168.xyz
 
 # Gugu
 DOMAIN-SUFFIX,guguemby.site
