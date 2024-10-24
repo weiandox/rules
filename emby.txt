@@ -2,6 +2,9 @@
 # Gugu
 DOMAIN-SUFFIX,guguemby.site
 
+# Magpie
+DOMAIN-SUFFIX,023168.xyz
+
 # 不给看
 DOMAIN-SUFFIX,emby.pro
 
