@@ -1,3 +1,6 @@
+# custom
+DOMAIN-SUFFIX,music.ailuo.de
+
 # pikpak
 DOMAIN-SUFFIX,mypikpak.com
 
