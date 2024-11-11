@@ -1,2 +1,0 @@
-#tulu
-DOMAIN-SUFFIX,023168.xyz
