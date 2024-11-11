@@ -1,6 +1,6 @@
 
 # Gugu
-DOMAIN-SUFFIX,guguemby.site
+DOMAIN-SUFFIX,node1.guguemby.site
 
 # Magpie
 DOMAIN-SUFFIX,023168.xyz
