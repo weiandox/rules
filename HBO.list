@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,hbonow.com
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,discomax.com
 # > HBO Asia
 USER-AGENT,HBO%20GO%20PROD*
 DOMAIN-SUFFIX,hbogoasia.com
