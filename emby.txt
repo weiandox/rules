@@ -21,8 +21,10 @@ DOMAIN-SUFFIX,carlos.trade
 # 1111
 DOMAIN-SUFFIX,19991998.xyz
 DOMAIN-SUFFIX,pm.xmsl.org
+DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,free.xmsl.org
 DOMAIN-SUFFIX,ushd.xmsl.org
+DOMAIN-SUFFIX,emby.moe
 
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
