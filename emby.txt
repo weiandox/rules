@@ -33,12 +33,8 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,misakaf.org
 
-# 天南
-DOMAIN-SUFFIX,nanflix.net
-
 # 叔服
 DOMAIN-SUFFIX,mcjoker.xyz
 
-# 探花TV
-DOMAIN-SUFFIX,tanhuatv.site
-IP-CIDR,94.16.119.117/32
+# 鹅服
+DOMAIN-SUFFIX,emby.cavps.eu.org
