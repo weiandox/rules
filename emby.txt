@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,jmsuper.com
 
 # hxd
 DOMAIN-SUFFIX,bili.rip
-DOMAIN-SUFFIX,emby.as174.com
+DOMAIN-SUFFIX,emby.as174.de
 
 # 特卡
 DOMAIN-SUFFIX,carlos.trade
