@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,carlos.trade
 
 # 1111
-DOMAIN-SUFFIX,19991998.xyz
 DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,free.xmsl.org
@@ -39,3 +38,6 @@ DOMAIN-SUFFIX,mcjoker.xyz
 
 # 鹅服
 DOMAIN-SUFFIX,emby.cavps.eu.org
+
+# zox
+DOMAIN-SUFFIX,zox.show
