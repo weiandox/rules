@@ -38,3 +38,6 @@ DOMAIN-SUFFIX,mcjoker.xyz
 
 # 鹅服
 DOMAIN-SUFFIX,emby.cavps.eu.org
+
+# Sport
+DOMAIN-SUFFIX,sportemby.com
