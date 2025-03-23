@@ -1,8 +1,0 @@
-# 卷毛鼠
-DOMAIN-SUFFIX,jmsuper.com
-
-# 特卡
-DOMAIN-SUFFIX,carlos.trade
-
-# Sport
-DOMAIN-SUFFIX,sportemby.com
