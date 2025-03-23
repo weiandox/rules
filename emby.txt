@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,mcjoker.xyz
 
 # 鹅服
 DOMAIN-SUFFIX,emby.cavps.eu.org
+
+# zox
+DOMAIN,direct.zox.show
