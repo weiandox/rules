@@ -5,18 +5,9 @@ DOMAIN-SUFFIX,node1.guguemby.site
 # Magpie
 DOMAIN-SUFFIX,023168.xyz
 
-# 不给看
-DOMAIN-SUFFIX,emby.pro
-
-# 卷毛鼠
-DOMAIN-SUFFIX,jmsuper.com
-
 # hxd
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,emby.as174.de
-
-# 特卡
-DOMAIN-SUFFIX,carlos.trade
 
 # 1111
 DOMAIN-SUFFIX,pm.xmsl.org
@@ -38,6 +29,3 @@ DOMAIN-SUFFIX,mcjoker.xyz
 
 # 鹅服
 DOMAIN-SUFFIX,emby.cavps.eu.org
-
-# Sport
-DOMAIN-SUFFIX,sportemby.com
