@@ -6,6 +6,3 @@ DOMAIN-SUFFIX,carlos.trade
 
 # Sport
 DOMAIN-SUFFIX,sportemby.com
-
-# Harris Emby
-DOMAIN-SUFFIX,emby.955527.xyz
