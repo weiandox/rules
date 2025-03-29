@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,mcjoker.xyz
 DOMAIN,direct.zox.show
 
 # shouhou
-DOMAIN,cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
