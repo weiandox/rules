@@ -24,7 +24,3 @@ DOMAIN,direct.zox.show
 
 # shouhou
 DOMAIN-SUFFIX,cn2gias.uk
-
-# cc
-DOMAIN,cc.coemn.com
-DOMAIN-SUFFIX,carryz.net
