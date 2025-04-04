@@ -24,3 +24,6 @@ DOMAIN,direct.zox.show
 
 # shouhou
 DOMAIN-SUFFIX,cn2gias.uk
+
+# tanhuatv
+DOMAIN-SUFFIX,tanhuatv.site
