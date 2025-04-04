@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,carlos.trade
 
 # Sport
 DOMAIN-SUFFIX,sportemby.com
+
+# tanhuatv
+DOMAIN-SUFFIX,tanhuatv.site
