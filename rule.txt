@@ -1,11 +1,9 @@
-# custom
-DOMAIN-SUFFIX,music.ailuo.de
+# 论坛
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,linux.do
 
 # pikpak
 DOMAIN-SUFFIX,mypikpak.com
-
-# gpt
-DOMAIN-SUFFIX,openai.com
 
 # nsfw
 DOMAIN-SUFFIX,missav.com
@@ -13,14 +11,6 @@ DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,madou.club
-
-# email
-DOMAIN,mail.yuxiaoc.com
-
-# 星视界
-DOMAIN-SUFFIX,ulivetv.net
-DOMAIN-SUFFIX,histar.tv
-DOMAIN-SUFFIX,cloudfront.net
 
 # 机场
 DOMAIN,ednovas.us
@@ -38,7 +28,6 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,bt4g
-DOMAIN-SUFFIX,155.fun
 DOMAIN-SUFFIX,1jubt.top
 DOMAIN-SUFFIX,ciliduo.org
 DOMAIN-SUFFIX,nnr.moe
