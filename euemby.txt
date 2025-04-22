@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,sportemby.com
 
 # tanhuatv
 DOMAIN-SUFFIX,tanhuatv.site
+
+# fun
+DOMAIN,de1.stream.funmedia.10101.io
