@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ciliduo.org
 DOMAIN-SUFFIX,nnr.moe
 DOMAIN-SUFFIX,kejilion.pro
 DOMAIN-SUFFIX,racknerd.com
+DOMAIN-SUFFIX,hub.docker.com
 
 # talktone
 HOST-SUFFIX, tktn.be
