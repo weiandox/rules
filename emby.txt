@@ -7,11 +7,11 @@ DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,free.xmsl.org
 # 公费推流
-DOMAIN-SUFFIX,loacl.emby.moe
+DOMAIN,loacl.emby.moe
 # 1站推流
-DOMAIN-SUFFIX,cfloacl.emby.moe
+DOMAIN,cfloacl.emby.moe
 # 2站推流
-DOMAIN-SUFFIX,ushd.xmsl.org
+DOMAIN,ushd.xmsl.org
 
 
 # 纸片人
