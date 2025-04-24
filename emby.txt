@@ -6,8 +6,13 @@ DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,free.xmsl.org
+# 公费推流
+DOMAIN-SUFFIX,loacl.emby.moe
+# 1站推流
+DOMAIN-SUFFIX,cfloacl.emby.moe
+# 2站推流
 DOMAIN-SUFFIX,ushd.xmsl.org
-DOMAIN-SUFFIX,emby.moe
+
 
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
