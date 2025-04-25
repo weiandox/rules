@@ -33,6 +33,3 @@ DOMAIN-SUFFIX,cn2gias.uk
 
 # yunti
 DOMAIN-SUFFIX,yunti.online
-
-# cc
-DOMAIN-SUFFIX,dl.carryz.net
