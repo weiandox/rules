@@ -45,3 +45,7 @@ IP-CIDR, 63.251.124.0/24
 
 # pt
 DOMAIN-SUFFIX,fsm.name
+
+# 检测站
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ipinfo.io
