@@ -49,3 +49,6 @@ DOMAIN-SUFFIX,fsm.name
 # 检测站
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,ipinfo.io
+
+# AI
+DOMAIN-SUFFIX,grok.com
