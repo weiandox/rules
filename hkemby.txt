@@ -1,3 +1,7 @@
 # cc
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,carryz.net
+
+# fun
+DOMAIN,emby.funmedia.10101.io
+DOMAIN,de1.stream.funmedia.10101.io
