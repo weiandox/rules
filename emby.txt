@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,cn2gias.uk
 
 # yunti
 DOMAIN-SUFFIX,yunti.online
+
+# jms-rec
+DOMAIN,vision.recmata.net
