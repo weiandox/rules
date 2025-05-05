@@ -1,6 +1,7 @@
 # 论坛
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,dcard.tw
 
 # pikpak
 DOMAIN-SUFFIX,mypikpak.com
@@ -21,6 +22,8 @@ DOMAIN-SUFFIX,ctc.run
 DOMAIN-SUFFIX,91unicorn.cloud
 DOMAIN-SUFFIX,zimoceng.xyz
 DOMAIN-SUFFIX,jinglongyu.com
+DOMAIN-SUFFIX,my.recmata.net
+DOMAIN-SUFFIX,redzao.com
 
 
 # other
@@ -52,3 +55,4 @@ DOMAIN-SUFFIX,ipinfo.io
 
 # AI
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
