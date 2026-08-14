@@ -1,0 +1,44 @@
+# 论坛
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,dcard.tw
+
+# pikpak
+DOMAIN-SUFFIX,mypikpak.com
+
+# nsfw
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,missav.ws
+
+# 机场
+DOMAIN,ednovas.us
+DOMAIN-SUFFIX,ctc.run
+DOMAIN-SUFFIX,jinglongyu.com
+DOMAIN-SUFFIX,redzao.com
+
+# other
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,bt4g
+DOMAIN-SUFFIX,1jubt.top
+DOMAIN-SUFFIX,ciliduo.org
+DOMAIN-SUFFIX,kejilion.pro
+DOMAIN-SUFFIX,racknerd.com
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN,api.themoviedb.org
+
+# 检测站
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ipinfo.io
+
+# AI
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# image
+DOMAIN-SUFFIX,111666.best
